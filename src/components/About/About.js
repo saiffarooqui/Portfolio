@@ -23,7 +23,7 @@ const About = () => {
           <strong>Let's Talk</strong>
           <h3>Get in touch to know me better</h3>
           <a href="tel:9657563675" className='btn-link'>
-            965-756-5675 <i className="fa-solid fa-phone-flip"></i>
+            965-756-3675 <i className="fa-solid fa-phone-flip"></i>
           </a>
         </div>
 
